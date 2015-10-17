@@ -1,0 +1,171 @@
+{
+    "receiptId": "201502051257",
+    "transactionDateTime": "2015-02-05T12:57:01-06:00",
+    "transactionId": "d8110e07-1486-4d1e-b397-49e7b19bacc6",
+    "terminalId": "1",
+    "cashierName": "4591",
+    "laneNumber": "1",
+    "numItemSold": 6,
+    "subTotal": "27.50",
+    "total": "30.14",
+    "totalTax": "2.64",
+    "savings": [
+        {
+            "discountDescription": "ELECTRONIC COUPON",
+            "discountType": "14",
+            "discountAmount": "2.00"
+        }
+    ],
+    "totalSavings": "2.00",
+    "percentSavings": "6.72",
+    "storeDetail": {
+        "storeId": "1fc43de3-1331-45c4-89b9-13c82e96a83c",
+        "name": "Dollar General MADISON",
+        "phoneNumber": "6158591159",
+        "address1": "2174 GALLATIN PIKE N",
+        "city": "MADISON",
+        "state": "Tennessee",
+        "zipCode": "37115-2004",
+        "identification": "",
+        "storeCode": "11817",
+        "timezone": "-0600"
+    },
+    "taxDetail": [
+        {
+            "taxAmount": "2.64",
+            "taxPercentage": "",
+            "taxDescription": "Tax 1"
+        }
+    ],
+    "tenderDetail": [
+        {
+            "tenderId": "94b50d30-ad80-11e4-86d1-0645f6dd5525",
+            "tenderType": "Visa/Debit",
+            "cardExpireDate": "",
+            "paidAmount": "40.14",
+            "cashbackAmount": "10.00"
+        }
+    ],
+    "userDetail": {
+        "userId": "30e04ee0-7087-11e4-821c-b8e85638bfc4",
+        "phoneNumber": "4086930409",
+        "email": "kdao@couponsinc.com",
+        "firstName": "Khanh",
+        "middleName": "",
+        "lastName": "Dao",
+        "address": {
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "zip": "95120"
+        },
+        "userCode": "3087f5b0-7087-11e4-821c-b8e85638bfc4",
+        "identifier": "kdao@couponsinc.com",
+        "identifierType": "Email",
+        "digestOptIn": false,
+        "sendDigitalReceipt": "Always",
+        "defaultZipCode": "95120",
+        "lastShoppedStoreZipCode": "37115-2004",
+        "userName": "kdao@couponsinc.com",
+        "partnerCode": "DGCenter"
+    },
+    "basketDiscount": [],
+    "departmentDetail": [
+        {
+            "deptId": "120",
+            "itemDetails": [
+                {
+                    "quantity": "1.0",
+                    "originalPrice": "18.00",
+                    "finalPrice": "18.00",
+                    "itemSavings": 0,
+                    "discountCount": 0
+                }
+            ]
+        },
+        {
+            "deptId": "120",
+            "itemDetails": [
+                {
+                    "quantity": "1.0",
+                    "originalPrice": "2.25",
+                    "finalPrice": "2.25",
+                    "itemSavings": 0,
+                    "discountCount": 0
+                }
+            ]
+        },
+        {
+            "deptId": "120",
+            "itemDetails": [
+                {
+                    "quantity": "1.0",
+                    "originalPrice": "2.00",
+                    "finalPrice": "1.50",
+                    "itemSavings": 0.5,
+                    "discountCount": 1,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "ELECTRONIC COUPON",
+                            "discountType": "14",
+                            "discountAmount": 0.5,
+                            "voidFlag": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "deptId": "120",
+            "itemDetails": [
+                {
+                    "quantity": "1.0",
+                    "originalPrice": "5.00",
+                    "finalPrice": "3.25",
+                    "itemSavings": 1.5,
+                    "discountCount": 1,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "ELECTRONIC COUPON",
+                            "discountType": "14",
+                            "discountAmount": 1.5,
+                            "voidFlag": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "deptId": "120",
+            "itemDetails": [
+                {
+                    "quantity": "1.0",
+                    "originalPrice": "1.50",
+                    "finalPrice": "1.50",
+                    "itemSavings": 0,
+                    "discountCount": 0
+                }
+            ]
+        },
+        {
+            "deptId": "0",
+            "itemDetails": [
+                {
+                    "quantity": "1.0",
+                    "originalPrice": "1.00",
+                    "finalPrice": "1.00",
+                    "itemSavings": 0,
+                    "discountCount": 0
+                }
+            ]
+        }
+    ],
+    "shortCode": "e11305d8",
+    "transactionNumber": "201502051257",
+    "partnerCode": "DGCenter",
+    "shortPartnerCode": "PA12343",
+    "totalDiscountCount": 0,
+    "barCode": "890726243054039411321938910919032710211695",
+    "barCodeType": "CODE128",
+    "applicationId": ""
+}

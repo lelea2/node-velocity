@@ -1,0 +1,440 @@
+{
+    "receiptId": "6799",
+    "transactionDateTime": "2014-10-03T12:08:08-08:00",
+    "transactionId": "9d8f11b0-4b30-11e4-a8e8-005056917d90",
+    "terminalId": "2",
+    "cashierName": "4823",
+    "laneNumber": "2",
+    "numItemSold": 15,
+    "subTotal": "20.05",
+    "total": "20.60",
+    "totalTax": "0.55",
+    "savings": [
+        {
+            "discountDescription": "Others",
+            "discountType": "",
+            "discountAmount": "1.85"
+        },
+        {
+            "discountDescription": "STORE MULTIPLE DISCOUNT",
+            "discountType": "13",
+            "discountAmount": "0.15"
+        },
+        {
+            "discountDescription": "STORE SINGLE DISCOUNT",
+            "discountType": "12",
+            "discountAmount": "0.50"
+        }
+    ],
+    "totalSavings": "2.50",
+    "percentSavings": "11.09",
+    "storeDetail": {
+        "storeId": "c0b4e889-4b7a-4657-9545-7dded3f4350a",
+        "name": "Dollar General CONCORD",
+        "phoneNumber": "9252700708",
+        "address1": "2150 SOLANO WAY",
+        "address2": "",
+        "city": "CONCORD",
+        "state": "California",
+        "zipCode": "94520-4700",
+        "identification": "",
+        "storeCode": "14724",
+        "timezone": "-0800"
+    },
+    "taxDetail": [
+        {
+            "taxAmount": "0.55",
+            "taxPercentage": "",
+            "taxDescription": "Tax 1"
+        }
+    ],
+    "tenderDetail": [
+        {
+            "tenderId": "9dc4a0a1-4b30-11e4-b052-005056913c6d",
+            "tenderType": "Visa/Credit",
+            "nameOnCard": "",
+            "token": "",
+            "cardExpireDate": "",
+            "paidAmount": "20.60",
+            "cashbackAmount": "0.00"
+        }
+    ],
+    "userDetail": {
+        "userId": "cd80c1b0-f280-11e3-af2f-005056917d27",
+        "phoneNumber": "6504500809",
+        "email": "jgerdes@couponsinc.com",
+        "firstName": "Julie",
+        "middleName": "",
+        "lastName": "Gerdes",
+        "address": {
+            "address1": "",
+            "address2": "",
+            "city": "Mountain View",
+            "state": "SS",
+            "zip": "94043"
+        },
+        "userCode": "cd7b1c60-f280-11e3-af2f-005056917d27",
+        "identifier": "jgerdes@couponsinc.com",
+        "identifierType": "Email",
+        "digestOptIn": false,
+        "sendDigitalReceipt": "Always",
+        "defaultZipCode": "94043",
+        "lastShoppedStoreZipCode": "94520-4700",
+        "userName": "jgerdes@couponsinc.com",
+        "partnerCode": "DGCenter"
+    },
+    "basketDiscount": [],
+    "departmentDetail": [
+        {
+            "deptId": "110",
+            "deptName": "HIGHLY CONSUMABLES",
+            "deptCode": "",
+            "categoryLevelImage1": "",
+            "itemDetails": [
+                {
+                    "itemId": "694afde2-c179-48c2-9b1c-320cbda502a5",
+                    "name": "HARIBO GOLD BEARS",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "0.70",
+                    "finalPrice": "0.64",
+                    "imageURI": "",
+                    "itemSavings": 0.06,
+                    "discountCount": 1,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "Others",
+                            "discountType": "13",
+                            "discountAmount": 0.06,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "4oz"
+                },
+                {
+                    "itemId": "89e4610e-d870-4bd5-ad1c-84224517cbf1",
+                    "name": "DORA FRUIT SNACKS",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "2.00",
+                    "finalPrice": "1.81",
+                    "imageURI": "//content-riq.coupons.com/product/gladson/00016000424135.jpg",
+                    "itemSavings": 0.19,
+                    "discountCount": 4,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "Others",
+                            "discountType": "13",
+                            "discountAmount": 0.19,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "8oz"
+                },
+                {
+                    "itemId": "6a5055db-faef-47eb-bab3-a1824681244d",
+                    "name": "VIGO YELLOW RICE",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "1.25",
+                    "finalPrice": "1.14",
+                    "imageURI": "",
+                    "itemSavings": 0.11,
+                    "discountCount": 5,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "STORE MULTIPLE DISCOUNT",
+                            "discountType": "13",
+                            "discountAmount": 0.11,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "9oz"
+                },
+                {
+                    "itemId": "982f6f11-d7b7-4a73-af69-ff6b0ee77784",
+                    "name": "MENTOS STRAWBERRY",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "0.55",
+                    "finalPrice": "0.43",
+                    "imageURI": "",
+                    "itemSavings": 0.12,
+                    "discountCount": 6,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "Others",
+                            "discountType": "13",
+                            "discountAmount": 0.12,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "Fr End ck(2L)"
+                },
+                {
+                    "itemId": "06130812-8dbf-4a64-b627-9eb870d70fe2",
+                    "name": "SCOOBY DOO FRUIT SNACKS",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "1.50",
+                    "finalPrice": "1.36",
+                    "imageURI": "//content-riq.coupons.com/product/gladson/00016000424197.jpg",
+                    "itemSavings": 0.14,
+                    "discountCount": 8,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "Others",
+                            "discountType": "13",
+                            "discountAmount": 0.14,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "8oz"
+                },
+                {
+                    "itemId": "694afde2-c179-48c2-9b1c-320cbda502a5",
+                    "name": "HARIBO GOLD BEARS",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "1.00",
+                    "finalPrice": "0.91",
+                    "imageURI": "",
+                    "itemSavings": 0.09,
+                    "discountCount": 9,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "Others",
+                            "discountType": "13",
+                            "discountAmount": 0.09,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "4oz"
+                },
+                {
+                    "itemId": "c1fe942d-8c13-4ea9-b121-a316dbd1e707",
+                    "name": "CV SALT CARML COOKIE 10OZ",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "1.50",
+                    "finalPrice": "1.00",
+                    "imageURI": "",
+                    "itemSavings": 0.5,
+                    "discountCount": 10,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "STORE SINGLE DISCOUNT",
+                            "discountType": "12",
+                            "discountAmount": 0.5,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "10oz"
+                },
+                {
+                    "itemId": "cdfe46d5-a8e1-4f37-a24e-d5e0a3d5a0b1",
+                    "name": "OS FRESH FIJI 16OZ BW",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "3.25",
+                    "finalPrice": "2.95",
+                    "imageURI": "//content-riq.coupons.com/product/gladson/00037000267904.jpg",
+                    "itemSavings": 0.3,
+                    "discountCount": 11,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "Others",
+                            "discountType": "13",
+                            "discountAmount": 0.3,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "16oz"
+                },
+                {
+                    "itemId": "982f6f11-d7b7-4a73-af69-ff6b0ee77784",
+                    "name": "MENTOS STRAWBERRY",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "0.30",
+                    "finalPrice": "0.28",
+                    "imageURI": "",
+                    "itemSavings": 0.02,
+                    "discountCount": 12,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "Others",
+                            "discountType": "13",
+                            "discountAmount": 0.02,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "Fr End ck(2L)"
+                },
+                {
+                    "itemId": "fa0e7883-ece7-4e50-ab18-bdeaa8fab565",
+                    "name": "PRINGLES TORTILLA NACHO C",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "1.50",
+                    "finalPrice": "1.36",
+                    "imageURI": "",
+                    "itemSavings": 0.14,
+                    "discountCount": 14,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "STORE MULTIPLE DISCOUNT",
+                            "discountType": "13",
+                            "discountAmount": 0.14,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "6.42oz"
+                }
+            ]
+        },
+        {
+            "deptId": "110",
+            "deptName": "SNACKS",
+            "deptCode": "",
+            "categoryLevelImage1": "",
+            "itemDetails": [
+                {
+                    "itemId": "a1744d34-087a-4437-97ac-95f57e68ba8c",
+                    "name": "CHEX MIX CHEDDAR",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "2.25",
+                    "finalPrice": "2.04",
+                    "imageURI": "//content-riq.coupons.com/product/gladson/00016000158405.jpg",
+                    "itemSavings": 0.21,
+                    "discountCount": 2,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "Others",
+                            "discountType": "13",
+                            "discountAmount": 0.21,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "8.75"
+                },
+                {
+                    "itemId": "b547d472-595e-4fc8-9896-7a651d232bce",
+                    "name": "CHEX MIX TRADITIONAL",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "1.75",
+                    "finalPrice": "1.59",
+                    "imageURI": "//content-riq.coupons.com/product/gladson/00016000159907.jpg",
+                    "itemSavings": 0.16,
+                    "discountCount": 13,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "Others",
+                            "discountType": "13",
+                            "discountAmount": 0.16,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "8.75"
+                }
+            ]
+        },
+        {
+            "deptId": "111",
+            "deptName": "TEA",
+            "deptCode": "",
+            "categoryLevelImage1": "",
+            "itemDetails": [
+                {
+                    "itemId": "33c3dba8-f479-45fe-b690-19cdccedecac",
+                    "name": "LIPTON FAMILY TEA BAGS",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "1.50",
+                    "finalPrice": "1.36",
+                    "imageURI": "//content-riq.coupons.com/product/gladson/00041000050145.jpg",
+                    "itemSavings": 0.14,
+                    "discountCount": 3,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "STORE MULTIPLE DISCOUNT",
+                            "discountType": "13",
+                            "discountAmount": 0.14,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "24"
+                }
+            ]
+        },
+        {
+            "deptId": "111",
+            "deptName": "SOUP",
+            "deptCode": "",
+            "categoryLevelImage1": "",
+            "itemDetails": [
+                {
+                    "itemId": "29df614c-4e4a-4b7f-9ebf-99b6dc71170b",
+                    "name": "Recipe Secrets",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "1.35",
+                    "finalPrice": "1.23",
+                    "imageURI": "//content-riq.coupons.com/product/gladson/00041000003622.jpg",
+                    "itemSavings": 0.12,
+                    "discountCount": 7,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "Others",
+                            "discountType": "13",
+                            "discountAmount": 0.12,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "2"
+                }
+            ]
+        },
+        {
+            "deptId": "102",
+            "deptName": "DEOD",
+            "deptCode": "",
+            "categoryLevelImage1": "",
+            "itemDetails": [
+                {
+                    "itemId": "957ae898-eb2c-4275-ac41-d1560781cba8",
+                    "name": "High Endurance",
+                    "description": "",
+                    "quantity": "1.0",
+                    "originalPrice": "2.15",
+                    "finalPrice": "1.95",
+                    "imageURI": "//content-riq.coupons.com/product/gladson/00012044017906.jpg",
+                    "itemSavings": 0.2,
+                    "discountCount": 15,
+                    "itemDiscounts": [
+                        {
+                            "discountDescription": "Others",
+                            "discountType": "13",
+                            "discountAmount": 0.2,
+                            "voidFlag": "A"
+                        }
+                    ],
+                    "unitOfMeasurement": "3"
+                }
+            ]
+        }
+    ],
+    "shortCode": "77432195",
+    "transactionNumber": "6799",
+    "partnerCode": "DGCenter",
+    "shortPartnerCode": "PA12343",
+    "totalDiscountCount": 15,
+    "barCode": "890633608157239329215939419862215713211131",
+    "barCodeType": "CODE128",
+    "applicationId": "",
+    "printReceipt": {
+        "width": 0
+    }
+}

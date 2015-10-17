@@ -1,0 +1,12 @@
+{
+  "name": "test-velocity",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^3.0.x",
+    "velocity": "^0.7.1",
+    "ejs": "*"
+  }
+}
