@@ -4,6 +4,6 @@ Sometimes its painful to work with email template on the main stack due to vario
 Simple dirty way leverage node-velocity to abstract out the template for email work becomes much easier.
 
 **** Technology stack ****
--- NodeJS (pure express)
--- node-velocity npm
--- vm template
+* NodeJS (pure express)
+* node-velocity npm
+* vm template
